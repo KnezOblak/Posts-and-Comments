@@ -3,7 +3,7 @@
 Clone the repository and install dependencies:
 
 ```bash```
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/yourusername/your-repo.git <br>
 cd your-repo
 npm install
 
